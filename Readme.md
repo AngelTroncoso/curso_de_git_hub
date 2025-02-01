@@ -1,4 +1,4 @@
-# Curso de GitHub Desktop - LinkedIn Learning.-
+# Curso de GitHub Desktop - LinkedIn Learning.
 
 ## 📌 Descripción
 Este repositorio contiene los apuntes y ejercicios del curso de **GitHub Desktop** de LinkedIn Learning. GitHub Desktop es una herramienta visual que facilita la gestión de repositorios Git sin necesidad de utilizar la terminal.
