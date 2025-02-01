@@ -41,4 +41,4 @@ Este contenido está disponible bajo la licencia **MIT**. Puedes usarlo y compar
 
 ---
 
-📧 **Contacto:** Para dudas o sugerencias, envía un mensaje a [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com).
+📧 **Contacto:** Para dudas o sugerencias, envía un mensaje a [Angeltroncoso2019@outlook.es](Angeltroncoso2019@outlook.es).
